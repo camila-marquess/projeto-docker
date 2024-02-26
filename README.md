@@ -26,7 +26,7 @@ Se preferir baixar as imagens diretamente do DockerHub, acesse os links:
 Você pode clonar este projeto usando o link abaixo:
 
 ```
-git clone 
+git clone git@github.com:camila-marquess/projeto-docker.git
 ```
 
 Antes de executar o comando abaixo, tenha certeza que você tenha o docker e docker compose instalados em sua máquina de acordo com o seu sistema operacional: 
