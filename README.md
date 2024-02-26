@@ -17,8 +17,8 @@ No arquivo Dockerfile do php usamos a versão 7.4 da imagem do php e estamos exp
 
 Se preferir baixar as imagens diretamente do DockerHub, acesse os links: 
 
-* [Dockerfile php](https://hub.docker.com/layers/camilamarquess/projeto-docker/v1-php/images/sha256-01edaf219313419061c765a2b82e41ea2e1aa76c21f77e134b98edda9f51d499?context=repo)
-* [Dockerfile mysql](https://hub.docker.com/layers/camilamarquess/projeto-docker/v1/images/sha256-01edaf219313419061c765a2b82e41ea2e1aa76c21f77e134b98edda9f51d499?context=repo)
+* [Dockerfile php](https://hub.docker.com/repository/docker/camilamarquess/projeto-docker/general)
+* [Dockerfile mysql](https://hub.docker.com/repository/docker/camilamarquess/projeto-docker/general)
 
 
 ## 3. Instalação
